@@ -1,0 +1,8 @@
+{
+  "name": "Remix BigMikro - MikroTik MAC, IP \u0026 API Ports Suite",
+  "description": "Comprehensive network utility for MikroTik RouterOS: MAC address vendor finder, IP subnet \u0026 CIDR planner, RouterOS API \u0026 service ports inspector, script generator, and neighbor discovery with full Arabic and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
